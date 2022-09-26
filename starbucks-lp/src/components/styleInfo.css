@@ -1,0 +1,19 @@
+span {
+    font-weight: bold;
+    color: green;
+}
+
+.card {
+    width: 40rem;
+    margin-top: 4rem;
+    margin-left: 7rem;
+    font-size: large;
+}
+
+#btn-learn {
+    border-radius: 40px;
+}
+
+.title {
+    font-size: 4vw;
+}
