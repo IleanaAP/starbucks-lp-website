@@ -1,8 +1,13 @@
-import { NavBar } from './components/NavBar';
+import { NavBar } from "./components/NavBar";
+import { Info } from "./components/Info";
 
 function App() {
   return (
-    <NavBar /> 
+    <>
+      <NavBar />
+      
+      <Info />
+    </>
   );
 }
 
