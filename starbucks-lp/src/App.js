@@ -1,5 +1,6 @@
 import { NavBar } from "./components/NavBar";
 import { Info } from "./components/Info";
+import { ContentBar } from "./components/ContentBar";
 
 function App() {
   return (
@@ -7,6 +8,8 @@ function App() {
       <NavBar />
       
       <Info />
+
+      <ContentBar/>
     </>
   );
 }
